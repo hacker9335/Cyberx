@@ -3,7 +3,7 @@
 
 ## Project Overview
 This cyberdeck is based on a **Raspberry Pi 4 (8 GB)** with an integrated battery backup, 10-inch display,keyboard, wireless mouse, USB expansion, and USB sound card.
-
+It will run **Ubuntu** on it
 ---
 
 
