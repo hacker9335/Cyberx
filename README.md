@@ -26,7 +26,7 @@ Wall Power
  │    └── USB Sound Card
  └── Wi-Fi / Bluetooth
 ```
-
+![alt text](<WhatsApp Image 2026-07-13 at 1.17.20 PM.jpeg>)
 ---
 **AED 1,009.75** **USD 270**
 ![alt text](image.png)
